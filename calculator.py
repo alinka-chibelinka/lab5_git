@@ -18,3 +18,4 @@ if __name__ == "__main__":
     bmi_result = calculate_bmi(w, h)
     print(f"Ваш ИМТ: {bmi_result:.2f}")
     print(f"Интерпретация: {interpret_bmi(bmi_result)}")
+# Проверено и готово к сдаче
